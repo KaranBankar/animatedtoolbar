@@ -8,7 +8,7 @@
 
     <com.karan.animatedtoolbar.AnimatedToolbar
         android:layout_width="match_parent"
-        android:layout_height="?attr/actionyeBarSize"
+        android:layout_height="match_parent"
         android:background="#A01A1A"
         app:title="Karan Bankar" />
 </LinearLayout>
